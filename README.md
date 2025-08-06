@@ -1,25 +1,27 @@
-🐳 Desafio DIO - Swarm com Vagrant
+## 🐳 Desafio DIO - Swarm com Vagrant
 Este projeto é parte de um desafio prático da Digital Innovation One (DIO), voltado à criação de um ambiente Docker Swarm usando Vagrant e VirtualBox. Ele permite o provisionamento rápido de múltiplas máquinas virtuais para simular um cluster Docker Swarm local.
 
-🚀 Objetivo
+## 🚀 Objetivo
 Criar e configurar um cluster de contêineres com Docker Swarm de forma automatizada, usando Vagrant como orquestrador de VMs.
 
-📦 Tecnologias Utilizadas
+##📦 Tecnologias Utilizadas
 - Docker
 - Docker Swarm
 - Vagrant
 - VirtualBox
 - Shell Script
 
-🛠 Estrutura do Projeto
+## 🛠 Estrutura do Projeto
+```bash
 desafio-dio-swarm-vagrant/
 ├── docker-swarm/
 │   ├── instalacao-master.sh
 │   ├── instalacao-worker.sh
 ├── Vagrantfile
 └── README.md
+```
 
-⚙️ Como Utilizar
+## ⚙️ Como Utilizar
 1. Clone o repositório
 ```bash
 git clone https://github.com/abrdevelopment/desafio-dio-swarm-vagrant.git
