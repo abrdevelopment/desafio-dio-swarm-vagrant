@@ -43,16 +43,16 @@ vagrant ssh master
 docker node ls
 ```
 
-✅ Funcionalidades
+## ✅ Funcionalidades
 - Provisionamento automático de 3 VMs (1 Manager + 2 Workers)
 - Inicialização e união de nós ao cluster Docker Swarm
 - Scripts de configuração automatizados
 - Ambiente reprodutível e prático para testes locais (IaC)
 
-📚 Referências
+## 📚 Referências
 - Documentação do Docker Swarm (https://docs.docker.com/engine/swarm/  )
 - Guia do Vagrant (https://developer.hashicorp.com/vagrant/docs)
 - Curso DIO: Formação Docker Fundamentals
 
-✍️ Autor
+## ✍️ Autor
 Feito por @abrdevelopment — sugestões e melhorias são bem-vindas!
