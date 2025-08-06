@@ -4,7 +4,7 @@ Este projeto é parte de um desafio prático da Digital Innovation One (DIO), vo
 ## 🚀 Objetivo
 Criar e configurar um cluster de contêineres com Docker Swarm de forma automatizada, usando Vagrant como orquestrador de VMs.
 
-##📦 Tecnologias Utilizadas
+## 📦 Tecnologias Utilizadas
 - Docker
 - Docker Swarm
 - Vagrant
